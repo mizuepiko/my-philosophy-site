@@ -10,21 +10,11 @@
   </url><url>
     <loc>http://localhost:1313/works/kcua/</loc>
   </url><url>
-    <loc>http://localhost:1313/works/polinitto/</loc>
-  </url><url>
     <loc>http://localhost:1313/works/workwasha/</loc>
-  </url><url>
-    <loc>http://localhost:1313/works/stitch/</loc>
   </url><url>
     <loc>http://localhost:1313/works/glass/</loc>
   </url><url>
-    <loc>http://localhost:1313/works/nihonga/</loc>
-  </url><url>
     <loc>http://localhost:1313/works/thread/</loc>
-  </url><url>
-    <loc>http://localhost:1313/works/chelsea/</loc>
-  </url><url>
-    <loc>http://localhost:1313/works/work-bunsai/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/notematerial-texture/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
@@ -33,9 +23,6 @@
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/notetextileart/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/notetheory1/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -50,23 +37,17 @@
     <loc>http://localhost:1313/notes/</loc>
     <lastmod>2026-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/theory-and-critique/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/note-sculpture/</loc>
-    <lastmod>2026-05-25T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/notes/note-window/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/note-sculpture2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/abstraction/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/introduction/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/theory-and-critique/</loc>
   </url><url>
     <loc>http://localhost:1313/works/</loc>
   </url>
