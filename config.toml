@@ -16,20 +16,23 @@ pygmentsUseClasses = true
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
   homeTitle = "my-philosophy-site"
-  
-  # ライトモード（白背景）に固定する設定
-  themeColor = "light"
-  defaultTheme = "light"
+  subtitle = "Welcome to my philosophy site."
+  socialCircle = true
 
   [params.author]
     name = "mizue"
 
 [[menu.main]]
-  name = "Posts"
+  name = "Notes"
   url = "posts/"
   weight = 10
 
 [[menu.main]]
+  name = "Work"
+  url = "work/"
+  weight = 20
+
+[[menu.main]]
   name = "About"
   url = "about/"
-  weight = 20
+  weight = 30
