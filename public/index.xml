@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mizue Osanai</title>
-    <link>https://mizueosanai.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mizue Osanai</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mizueosanai.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>はじめに</title>
-      <link>https://mizueosanai.com/notes/first-note/</link>
+      <link>http://localhost:1313/notes/first-note/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/first-note/</guid>
+      <guid>http://localhost:1313/notes/first-note/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-&lt;img src=&#34;https://mizueosanai.com/threadwood.png&#34; alt=&#34;作品の写真&#34; style=&#34;width: 50%; max-width: 500px; display: block; margin-bottom: 60px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/threadwood.png&#34; alt=&#34;作品の写真&#34; style=&#34;width: 50%; max-width: 500px; display: block; margin-bottom: 60px;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;fragments-of-thought--テキスタイルをめぐる哲学&#34;&gt;　Fragments of Thought  　　テキスタイルをめぐる哲学&lt;/h3&gt;
 &lt;p&gt;日々考えているテキスタイルをめぐる考えや、制作プロセスなどを書き留めていきます。３つのカテゴリー、 Theory and Critique (理論・批評)
@@ -22,11 +22,11 @@
     </item>
     <item>
       <title>埃のコンポジション</title>
-      <link>https://mizueosanai.com/works/2023maronie/</link>
+      <link>http://localhost:1313/works/2023maronie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/works/2023maronie/</guid>
+      <guid>http://localhost:1313/works/2023maronie/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/2023gallerymaronie.png&#34; style=&#34;width: 70%; height: auto; margin-bottom: 60px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/2023gallerymaronie.png&#34; style=&#34;width: 70%; height: auto; margin-bottom: 60px;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;2023/12 京都ー青森　（ギャラリーマロニエー青森市内）　&lt;/p&gt;
 &lt;p&gt;素材：綿糸、反応染料、アルミパイプ、その他&lt;/p&gt;
@@ -34,96 +34,174 @@
 &lt;p&gt;知らないうちに降り積り、ふわふわ、コロコロ漂う埃。部屋の隅で何気なく構成される。私がテキスタイルに向ける愛着の眼差しは、そんな埃たちを含めた、布と人との関わり合いや時間の経過、朽ちること、変化することなど、どこか人間味を感じる不完全さと関係しているのかもしれない。ギャラリーマロニエでの展示の後に、青森の雪の中に作品たちを連れ出してみた。開けた雪のある風景は、真っ白でしっとり、ひんやりして、作品を並べてみるのにちょうど良い。個々の立体たちも静かで冷たい湿度を持った空気に馴染んでくれたように思う。&lt;/p&gt;
 &lt;p&gt;私の思考は、冬の埋もれるほどの雪との生活に影響されていると思う。冬の空気はキーンんと冷たく、足元は積もった雪で不安定になる。冬は五感を通してあらゆる方向から体の中に染み込んでくる。冬は全てが真っ白に包まれる世界で、人間の無力さと自然の壮大さをしみじみと感じる季節だ。&lt;/p&gt;
  &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 70px;&#34;&gt;
- &lt;img src=&#34;https://mizueosanai.com/images/2023composition.png&#34;  style=&#34;width: 550px; height: auto; margin-bottom: 60px;&#34; &gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/2023composition2.png&#34;  style=&#34;width: 400px; height: auto;&#34; &gt;
+ &lt;img src=&#34;http://localhost:1313/images/2023composition.png&#34;  style=&#34;width: 550px; height: auto; margin-bottom: 60px;&#34; &gt;
+  &lt;img src=&#34;http://localhost:1313/images/2023composition2.png&#34;  style=&#34;width: 400px; height: auto;&#34; &gt;
 &lt;/div&gt;</description>
     </item>
     <item>
       <title>In a bag　持ち運ぶもの</title>
-      <link>https://mizueosanai.com/works/work-maronie/</link>
+      <link>http://localhost:1313/works/work-maronie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/works/work-maronie/</guid>
+      <guid>http://localhost:1313/works/work-maronie/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-&lt;img src=&#34;https://mizueosanai.com/images/work-bag3.png&#34; alt=&#34;In a bag 3&#34; style=&#34;width: 50%; &#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/work-bag3.png&#34; alt=&#34;In a bag 3&#34; style=&#34;width: 50%; &#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;ギャラリーマロニエ 染織tommorow 2022 展&lt;/p&gt;
 &lt;p&gt;素材：シート、アルミパイプ、綿生地、しつけ糸、紐など&lt;/p&gt;
 &lt;p&gt;まだ発展の余地があるテーマ。人を内面からに支えるものについて考えていた。人は大人になるまで時間がかかる動物だ。感情に左右され、精神的な部分が生きることに大きく影響する。&lt;/p&gt;
 &lt;p&gt;カバンみたいに持ち運べる家、そこに記憶を詰めて持ち運び生きる。ひとりの人間を支える大切な思い出をしまって一緒に旅をする。楽しさ、悲しみ、嬉しさ、怒り、愛情、生きている中で人はさまざまな思いを経験する。生きていくためには、どこか強さのようなものが必要だなと感じることがある。強さという言葉で合っているのかわからないけど。&lt;/p&gt;
 &lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; gap: 20px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/work-bag1.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/work-bag2.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/work-bag1.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/work-bag2.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
       <title>、重なり、、集合、、</title>
-      <link>https://mizueosanai.com/works/kcua/</link>
+      <link>http://localhost:1313/works/kcua/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/works/kcua/</guid>
+      <guid>http://localhost:1313/works/kcua/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/finalproject2022.png&#34; style=&#34;width: 80%; height: auto; margin-bottom: 60px;&#34;&gt;
-  &lt;video src=&#34;https://mizueosanai.com/images/kcua.mp4&#34; controls width=&#34;100%&#34; style=&#34;max-width: 600px; height: auto; margin-bottom: 70px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/finalproject2022.png&#34; style=&#34;width: 80%; height: auto; margin-bottom: 60px;&#34;&gt;
+  &lt;video src=&#34;http://localhost:1313/images/kcua.mp4&#34; controls width=&#34;100%&#34; style=&#34;max-width: 600px; height: auto; margin-bottom: 70px;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;KCUA    MFA Final project&lt;/p&gt;
 &lt;p&gt;素材：しつけ糸、アルミパイプ、反応染料、バイアステープ、その他&lt;/p&gt;
 &lt;p&gt;糸が集まる、外へ連れ出して、広げて、組み合わせたり、関係したりする&lt;/p&gt;
  &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 70px;&#34;&gt;
- &lt;img src=&#34;https://mizueosanai.com/images/kcuaima.png&#34; alt=&#34;kcua&#34; style=&#34;width: 600px; height: auto;&#34;  &gt;
+ &lt;img src=&#34;http://localhost:1313/images/kcuaima.png&#34; alt=&#34;kcua&#34; style=&#34;width: 600px; height: auto;&#34;  &gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>polinitto ポリニット</title>
+      <link>http://localhost:1313/works/polinitto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/polinitto/</guid>
+      <description>&lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; center; gap: 30px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/polinitto2.png&#34; alt=&#34;stitch&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;素材：毛糸、ポリ袋&lt;/p&gt;
+&lt;p&gt;ポリ袋をニットでつなぐ。『わしゃわしゃ』からの多少の試みであり、布生地のようなものを目指した。透明な部分のわしゃっとした膨らみ、伸縮性のある編み地とのつながり。&lt;/p&gt;
+&lt;p&gt;空気の質感のような、パッチワークのような。&lt;/p&gt;
+&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/polinitto.png&#34; alt=&#34;stitch&#34; style=&#34;width: 50%; height: auto,&#34;&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
       <title>わしゃわしゃ</title>
-      <link>https://mizueosanai.com/works/workwasha/</link>
+      <link>http://localhost:1313/works/workwasha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/works/workwasha/</guid>
+      <guid>http://localhost:1313/works/workwasha/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top:  40px;&#34;&gt;
-&lt;img src=&#34;https://mizueosanai.com/images/work2-1.png&#34; alt=&#34;Washawasha&#34; style=&#34;width: 70%; margin-bottom:60px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/work2-1.png&#34; alt=&#34;Washawasha&#34; style=&#34;width: 70%; margin-bottom:60px;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;素材：サランラップ、毛糸など&lt;/p&gt;
 &lt;p&gt;視覚を通し記憶に蓄積されていく空気の色やテクスチャーを編み機で作りたいと思い制作した。アルバイトからの帰り道、遠くに見えるロンドン中心部の街の光、ひっそりとした夜の木々、静かな建物、少し埃っぽい空気、混ざり合った生活の匂い。地下に潜ってロンドンの地下鉄、ガタゴト。記憶の中にいっしょくたに存在する質感をサランラップとカラフルな糸でつないでニットにした。編み機から少しずつ編み目が段になっていくのを確認しながら、ゆっくりと布になるのを眺めるのも楽しかった。&lt;/p&gt;
 &lt;p&gt;人は常に記憶しながら生きている。その記憶は本当に全て脳に蓄積されてるのだろうか。あまりに膨大な量で染み出したりしないのだろうか。時々、記憶と現実が緩んだところを生きている気がする。&lt;/p&gt;
 &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin- top: 50px;&#34;&gt;
-&lt;img src=&#34;https://mizueosanai.com/images/washa1.png&#34; alt=&#34;Window 3&#34; style=&#34;width: 60%; display: block; margin-bottom: 60px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/washa1.png&#34; alt=&#34;Window 3&#34; style=&#34;width: 60%; display: block; margin-bottom: 60px;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;CSMのニットウェアのサマーコースではじめて編み機を使った。その出会いは新鮮でとても衝撃的だった。糸から布地を作り服にできることに感激した。Sarah先生も好きだったし、とにかく編み機が大好きになった。Knitwearという選択肢もあったんだなと思った。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>パリパリと</title>
-      <link>https://mizueosanai.com/works/glass/</link>
+      <title>糸の束　もふもふ</title>
+      <link>http://localhost:1313/works/stitch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/works/glass/</guid>
+      <guid>http://localhost:1313/works/stitch/</guid>
+      <description>&lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; center; gap: 30px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/stitch.png&#34; alt=&#34;stitch&#34; style=&#34;width: 45%; height: auto;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/stitch2.png&#34; alt=&#34;stitch&#34; style=&#34;width: 45%; height: auto,&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;素材：しつけ糸、チュール&lt;/p&gt;
+&lt;p&gt;モフモフする。言葉が糸の束のように口のなかに違和感として存在する。&lt;/p&gt;
+&lt;p&gt;身にまとうモフモフのテクスチャー、モフモフを着て今日も生きるのだ&lt;/p&gt;
+&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/stitch5.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 55%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/stitch3.png&#34; alt=&#34;stitch&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>パリパリと</title>
+      <link>http://localhost:1313/works/glass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/glass/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/glass.png&#34; style=&#34;width: 60%; height: auto; margin-bottom: 60px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/glass.png&#34; style=&#34;width: 60%; height: auto; margin-bottom: 60px;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;テクスチャーについて&lt;/p&gt;
 &lt;p&gt;素材：ガラス、鏡、木枠、レジン&lt;/p&gt;
 &lt;p&gt;例えば、信じていたものが、ガラスのように砕けてしまう瞬間のテクスチャーって、一体どんなものだろう。今まで見てきたこと信じてきた世界の膜が、割れたガラスのようになり、目の前で崩れていく。そんな質感や素材はどんなものだろう。認識のテクスチャーと素材の実験的な作品。&lt;/p&gt;
  &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 70px;&#34;&gt;
- &lt;img src=&#34;https://mizueosanai.com/images/glasszoom.png&#34;  style=&#34;width: 500px; height: auto;&#34;  &gt;
+ &lt;img src=&#34;http://localhost:1313/images/glasszoom.png&#34;  style=&#34;width: 500px; height: auto;&#34;  &gt;
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>糸、形、存在</title>
-      <link>https://mizueosanai.com/works/thread/</link>
+      <title>にほんが Japanese painting</title>
+      <link>http://localhost:1313/works/nihonga/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/works/thread/</guid>
+      <guid>http://localhost:1313/works/nihonga/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-&lt;img src=&#34;https://mizueosanai.com/images/thread.png&#34; alt=&#34;In a bag 3&#34; style=&#34;width: 55%; height: 55%;&#34;&gt;
-&lt;img src=&#34;https://mizueosanai.com/images/thread2.png&#34; alt=&#34;In a bag 3&#34; style=&#34;width: 55%; height: 55%;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/nihonga.png&#34; style=&#34;width: 70%; height: auto; margin-bottom: 60px;&#34;&gt;
+   &lt;img src=&#34;http://localhost:1313/images/evaporation.png&#34;  style=&#34;width: 400px; height: auto; margin-bottom: 60px;&#34; &gt;
+  &lt;img src=&#34;http://localhost:1313/images/nihonga2.png&#34;  style=&#34;width: 550px; height: auto; margin-bottom: 60px;&#34; &gt;
+  &lt;img src=&#34;http://localhost:1313/images/nihongatubu.png&#34;  style=&#34;width: 400px; height: auto; margin-bottom: 60px;&#34; &gt;
+&lt;/div&gt;
+&lt;p&gt;素材：和紙、顔料、膠など&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>糸、形、存在</title>
+      <link>http://localhost:1313/works/thread/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/thread/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/thread.png&#34; alt=&#34;In a bag 3&#34; style=&#34;width: 55%; height: 55%;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/thread2.png&#34; alt=&#34;In a bag 3&#34; style=&#34;width: 55%; height: 55%;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;素材：ミシン糸&lt;/p&gt;
 &lt;p&gt;糸により自分の存在を確かめるための実験的な作品&lt;/p&gt;
 &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/images/thread1.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 45%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/thread1.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 45%; height: auto;&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Inner Landscape —  A Psychological Window</title>
+      <link>http://localhost:1313/works/chelsea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/chelsea/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 30px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/window1.png&#34; alt=&#34;Window 1&#34; style=&#34;width: 50%;  margin-bottom: 30px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/window2.png&#34; alt=&#34;Window 2&#34; style=&#34;width: 50%; margin-bottom: 30px; &#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;UAL チェルシーのファウンデーション在学時の作品&lt;br&gt;
+素材：絹布、ロウ、テグス&lt;/p&gt;
+&lt;p&gt;身体を家と例えると、窓は他者と関わるときのコミュニケーションの窓口に思えた。そのイメージを形にした作品。箱のような立体はそれぞれ手のひらくらいの大きさ。半透明で柔らかみのあるテクスチャーを想像していたのでロウを使用した。当時はEva Hesseの作品に影響を受けていた。ドローイング、絵画、立体、Eva Hesseの表現の広さと、彫刻というか、彫刻化した素材のような表現が魅力的で、今でも好きな作家だ。&lt;/p&gt;
+&lt;p&gt;小規模なチェルシーはアットホームで好きな学校だった。実験的なアプローチが心地よくて、よくわからないまま手を動かして制作していた。隣のテート美術館では、お散歩がてらたくさんの作品を見た。&lt;/p&gt;
+&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 30px&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/window3.png&#34; alt=&#34;Window 3&#34; style=&#34;width: 35%; display: block;&#34;&gt;
+&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Plastic bags カサカサ</title>
+      <link>http://localhost:1313/works/work-bunsai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/works/work-bunsai/</guid>
+      <description>&lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; center; gap: 30px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/work1-1.jpg&#34; alt=&#34;Window 1&#34; style=&#34;width: 50%; &#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/work1-2.jpg&#34; alt=&#34;Window 2&#34; style=&#34;width: 35% height:auto; &#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;素材：レジ袋、紐&lt;/p&gt;
+&lt;p&gt;街での生活、カサカサ乾燥した無機質な日々の連続。たまっていくレジ袋は生きている証拠。トニー滝谷という映画にどこか共感する。そんな日々をテクスチャーで表せないかと考え、素材の中に入って体感するようにした作品。目の前が白くてカサカサした素材に包まれると、なぜか気持ちも静かになる。&lt;/p&gt;
+&lt;p&gt;高田馬場での日々、美術を学ぶことに価値があると思えた。&lt;/p&gt;
+&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 30px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/images/work1-3.jpg&#34; alt=&#34;Window 1&#34; style=&#34;width: 40%; &#34;&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
       <title>【Material and Texture】糸の束、線の跡</title>
-      <link>https://mizueosanai.com/notes/notematerial-texture/</link>
+      <link>http://localhost:1313/notes/notematerial-texture/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/notematerial-texture/</guid>
+      <guid>http://localhost:1313/notes/notematerial-texture/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/ito.png&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/ito.png&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;糸の束のテクスチャー&#34;&gt;糸の束のテクスチャー&lt;/h3&gt;
 &lt;p&gt;修士の時から、ずっと糸を束ねて面にする作業を飽きずにやっている。これでいいのかな、と思いながら、最近は織の挑戦も始めた。でも、やっぱり糸が集まり、一本一本の影ができ、質感を持った線になる感じがどうしても好きなのだ。色を変えるとまた違って見える。いつも新鮮。なんか、糸たちは気ままだなーと眺めているのも、ぼーっとした穏やかなで平和な時間。&lt;/p&gt;
@@ -131,11 +209,11 @@
     </item>
     <item>
       <title>【theory】テキスタイルと言語</title>
-      <link>https://mizueosanai.com/notes/notelanguage/</link>
+      <link>http://localhost:1313/notes/notelanguage/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/notelanguage/</guid>
+      <guid>http://localhost:1313/notes/notelanguage/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/papercut.png&#34; style=&#34;width: 60%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/papercut.png&#34; style=&#34;width: 60%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;言葉の中に織り込まれたテキスタイル&#34;&gt;言葉の中に織り込まれたテキスタイル&lt;/h3&gt;
 &lt;p&gt;tapestry of culture, weave of culture, interwoven,&lt;/p&gt;
@@ -146,32 +224,60 @@
     </item>
     <item>
       <title>【theory】ファイバー、テキスタイルアート</title>
-      <link>https://mizueosanai.com/notes/notetextileart/</link>
+      <link>http://localhost:1313/notes/notetextileart/</link>
       <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/notetextileart/</guid>
+      <guid>http://localhost:1313/notes/notetextileart/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/city.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/city.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;ファイバーアートは１９６０年代頃からアメリカやヨーロッパから始まり、そして日本でもブームみたいに花開いて、やがてファインアートの表現言語の一つとして吸収されていった。マグダレーナ・アバカノヴィッチはテキスタイルアートを飛び越えてファインアートのアーティストとして認知されている。イギリスのゴールドスミスカレッジにもかつてはTextilesの専攻があったが、やがてFine Artに吸収された。それは、ファインアートの中でテキスタイルに関わる限りは、強靭なコンセプトなり、素材や構造や概念的な必然性が求められるという、時代の流れだと思う。テキスタイルの理屈っぽくない造形の面白さもいいと思うが、きっと現代アートの中のテキスタイルも楽しい。&lt;/p&gt;
 &lt;p&gt;私とテキスタイルとの出会いは、テキスタイルアートで有名な佐久間先生を通してだった。少しだけ先生に師事し、大好きになったのだ。工業生産の布しか知らなかったので、布を自分で作れるということにワクワクした。そして子供の頃から大の手芸好きだったので、留学した時にイギリスのテキスタイルコースではニットや刺繍の専攻もあると知って、手芸好きでも学位が取れるのがすごいなと嬉しくなった。&lt;/p&gt;</description>
     </item>
     <item>
+      <title>【Theory】フランクフルト学派とアートというイリュージョン</title>
+      <link>http://localhost:1313/notes/notetheory1/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/notetheory1/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/threadwood.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;フランクフルト学派資本主義マルクス主義現代美術&#34;&gt;フランクフルト学派、資本主義、マルクス主義、現代美術&lt;/h3&gt;
+&lt;p&gt;現代社会を動かす根底にある理論と視覚芸術の方法論&lt;/p&gt;
+&lt;p&gt;ヨーゼフ・ボイスを中心に美術が社会活動と結びつき、アーティストと活動家の線引きが曖昧になる過程を俯瞰する。そして、その活動の背後にある主義、思想を追うことで、現代美術の見えない構造をまとめるのが目的だ。我々の行動や思考の背後にある現代の思想はどのように構築されていったのか。&lt;/p&gt;
+&lt;p&gt;参考文献　（予定）
+「ザ・ロスチャイルド」大英帝国を乗っ取り世界を支配した一族の物語
+フランクフルト学派 -ホルクハイマー、アドルノから21世紀の「批判理論」へ
+人工地獄 現代アートと観客の政治学&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【Practice &amp; Experiments】3-D、抽象、もの</title>
+      <link>http://localhost:1313/notes/note-sculpture/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/note-sculpture/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/experiment.png&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;彫刻に惹かれる&#34;&gt;彫刻に惹かれる&lt;/h3&gt;
+&lt;p&gt;平面より、立体の作品に惹かれる。目で見るだけではなく、量感や質感、空間との関係など体感しながら作品と関係できるのが好きなのだろう。あと、在る、という感じが日常に近い感覚で、それでいて日常にはないオブジェを感じられることがいいのだろう。彫刻は絵画よりも寡黙な気がする。絵画でもミニマルで抽象的な作品は彫刻的だと思う。要素が単純化されることに秘密があるのか。素材や質感、抽象的な形は、感度を必要とする静かな造形言語だからだろか。&lt;/p&gt;
+&lt;p&gt;最近は美術館に行くこと、美術作品を見ることに興味がほとんどなくなってしまった。郷土館はなぜか好きなのだが。それは、親しみなのかもしれない。郷土館のものたちは私たちの生活ともつながっているように思える、心理的な近さがあるところに惹かれるのかもしれない。ここには、彫刻ではなく、ものたちが収められている。&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
-      <link>https://mizueosanai.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 20 May 2026 14:42:28 +0900</pubDate>
-      <guid>https://mizueosanai.com/about/</guid>
-      <description>&lt;img src=&#34;https://mizueosanai.com/about1.png&#34; alt=&#34;mizue&#34; style=&#34;width: 30%; max-width: 400px; display: block; margin: 0 0 20px 0; border-radius: 4px;&#34;&gt;
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;img src=&#34;http://localhost:1313/about1.png&#34; alt=&#34;mizue&#34; style=&#34;width: 30%; max-width: 400px; display: block; margin: 0 0 20px 0; border-radius: 4px;&#34;&gt;
 &lt;p&gt;Mizue Osanai&lt;/p&gt;
 &lt;p&gt;Visual Art &amp;amp; Research&lt;/p&gt;
 &lt;p&gt;My practice explores the boundaries of structural abstraction through an engagement with material possibilities. Moving beyond traditional frameworks, I work with soft and pliable media—such as thread and variable surfaces—not merely as tools of representation, but through their own structural logic. By examining the tactile realities of material, my practice seeks to reframe our perception of space, structure, and physical presence.&lt;/p&gt;</description>
     </item>
     <item>
       <title>【Practice &amp; Experiments】窓とカーテン</title>
-      <link>https://mizueosanai.com/notes/note-window/</link>
+      <link>http://localhost:1313/notes/note-window/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/note-window/</guid>
+      <guid>http://localhost:1313/notes/note-window/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/book1.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/book1.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;カーテンと窓についての本&#34;&gt;カーテンと窓についての本&lt;/h3&gt;
 &lt;p&gt;「カーテン百景」はなかり市で購入したnumariさんの写真集。青森県のカーテンのある風景がおさめられている。ちょっとぶきっちょで、こっけいだったりするけど、生活の匂いみたいなのが布にしみこんでいる感じがなんとも愛おしい。&lt;/p&gt;
@@ -181,15 +287,30 @@
     </item>
     <item>
       <title>【Practice &amp; Experiments】見つからないときは</title>
-      <link>https://mizueosanai.com/notes/note-sculpture2/</link>
+      <link>http://localhost:1313/notes/note-sculpture2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/note-sculpture2/</guid>
+      <guid>http://localhost:1313/notes/note-sculpture2/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/book2.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/book2.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;全ての意味のないこと&#34;&gt;全ての意味のないこと&lt;/h3&gt;
 &lt;p&gt;ものを作ることに意味を見出せない時は、好きな作家の画集を眺める。Carol Boveの作品集は、一人の作家がどのように造形と向き合ってきたかを知れる貴重な一冊だ。さまざまな過程を経てコラージュ彫刻に至り、これからも発展していく。制作に意味がないように思えることもあるけど、考え作ること、技術、素材との関わりなど、まだまだできることがたくさんあるし、ささやかで誠実に造形と向き合い、ちょっとずつ進むだけでいいのではないかと思える。まだまだ読み始めなので、ちょっとずつ進めよう。&lt;/p&gt;
 &lt;p&gt;自分の生活している世界が二次元ではないから、空間の中で関わる作品が好きなのかもしれない。より身近で、馴染みある形式だからだろうか。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【Theory】経験と身近な感覚の抽象</title>
+      <link>http://localhost:1313/notes/abstraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/abstraction/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/clay.png&#34; style=&#34;width: 60%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;五感の抽象化&#34;&gt;五感の抽象化&lt;/h3&gt;
+&lt;p&gt;夕焼けを眺める。視覚から受け取る光の強さ、形、色以外に、温度や湿度、風やにおい、質感、それに付随するさまざまな要素を一緒に感じる。それは全身で感じる、抽象的に混ざり合った空気の気配だ。&lt;/p&gt;
+&lt;p&gt;抽象的な感覚と抽象化された造形。&lt;/p&gt;
+&lt;p&gt;空間を歩いたりすることで周囲と関係する。日常の感覚と、身近な経験と感覚を抽象化した非日常の造形が関係していく。&lt;/p&gt;
+&lt;p&gt;空間の抽象化。&lt;/p&gt;
+&lt;p&gt;認識は多くの場合、ごちゃごちゃになった情報が、なんとか整理されているように見えるだけに思える。そのごちゃごちゃを捏ねたり、削ったり、わちゃわちゃして、形になったものが私の抽象なのかもしれない。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

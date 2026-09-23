@@ -2,18 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Theory and Critique on Mizue Osanai</title>
-    <link>https://mizueosanai.com/categories/theory-and-critique/</link>
+    <link>http://localhost:1313/categories/theory-and-critique/</link>
     <description>Recent content in Theory and Critique on Mizue Osanai</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://mizueosanai.com/categories/theory-and-critique/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/theory-and-critique/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【Theory】フランクフルト学派とアートというイリュージョン</title>
+      <link>http://localhost:1313/notes/notetheory1/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/notetheory1/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/threadwood.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;フランクフルト学派資本主義マルクス主義現代美術&#34;&gt;フランクフルト学派、資本主義、マルクス主義、現代美術&lt;/h3&gt;
+&lt;p&gt;現代社会を動かす根底にある理論と視覚芸術の方法論&lt;/p&gt;
+&lt;p&gt;ヨーゼフ・ボイスを中心に美術が社会活動と結びつき、アーティストと活動家の線引きが曖昧になる過程を俯瞰する。そして、その活動の背後にある主義、思想を追うことで、現代美術の見えない構造をまとめるのが目的だ。我々の行動や思考の背後にある現代の思想はどのように構築されていったのか。&lt;/p&gt;
+&lt;p&gt;参考文献　（予定）
+「ザ・ロスチャイルド」大英帝国を乗っ取り世界を支配した一族の物語
+フランクフルト学派 -ホルクハイマー、アドルノから21世紀の「批判理論」へ
+人工地獄 現代アートと観客の政治学&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【Practice &amp; Experiments】3-D、抽象、もの</title>
+      <link>http://localhost:1313/notes/note-sculpture/</link>
+      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/note-sculpture/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/experiment.png&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;彫刻に惹かれる&#34;&gt;彫刻に惹かれる&lt;/h3&gt;
+&lt;p&gt;平面より、立体の作品に惹かれる。目で見るだけではなく、量感や質感、空間との関係など体感しながら作品と関係できるのが好きなのだろう。あと、在る、という感じが日常に近い感覚で、それでいて日常にはないオブジェを感じられることがいいのだろう。彫刻は絵画よりも寡黙な気がする。絵画でもミニマルで抽象的な作品は彫刻的だと思う。要素が単純化されることに秘密があるのか。素材や質感、抽象的な形は、感度を必要とする静かな造形言語だからだろか。&lt;/p&gt;
+&lt;p&gt;最近は美術館に行くこと、美術作品を見ることに興味がほとんどなくなってしまった。郷土館はなぜか好きなのだが。それは、親しみなのかもしれない。郷土館のものたちは私たちの生活ともつながっているように思える、心理的な近さがあるところに惹かれるのかもしれない。ここには、彫刻ではなく、ものたちが収められている。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>【Practice &amp; Experiments】窓とカーテン</title>
-      <link>https://mizueosanai.com/notes/note-window/</link>
+      <link>http://localhost:1313/notes/note-window/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/note-window/</guid>
+      <guid>http://localhost:1313/notes/note-window/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/book1.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/book1.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;カーテンと窓についての本&#34;&gt;カーテンと窓についての本&lt;/h3&gt;
 &lt;p&gt;「カーテン百景」はなかり市で購入したnumariさんの写真集。青森県のカーテンのある風景がおさめられている。ちょっとぶきっちょで、こっけいだったりするけど、生活の匂いみたいなのが布にしみこんでいる感じがなんとも愛おしい。&lt;/p&gt;
@@ -23,15 +52,30 @@
     </item>
     <item>
       <title>【Practice &amp; Experiments】見つからないときは</title>
-      <link>https://mizueosanai.com/notes/note-sculpture2/</link>
+      <link>http://localhost:1313/notes/note-sculpture2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mizueosanai.com/notes/note-sculpture2/</guid>
+      <guid>http://localhost:1313/notes/note-sculpture2/</guid>
       <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;https://mizueosanai.com/book2.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/book2.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;全ての意味のないこと&#34;&gt;全ての意味のないこと&lt;/h3&gt;
 &lt;p&gt;ものを作ることに意味を見出せない時は、好きな作家の画集を眺める。Carol Boveの作品集は、一人の作家がどのように造形と向き合ってきたかを知れる貴重な一冊だ。さまざまな過程を経てコラージュ彫刻に至り、これからも発展していく。制作に意味がないように思えることもあるけど、考え作ること、技術、素材との関わりなど、まだまだできることがたくさんあるし、ささやかで誠実に造形と向き合い、ちょっとずつ進むだけでいいのではないかと思える。まだまだ読み始めなので、ちょっとずつ進めよう。&lt;/p&gt;
 &lt;p&gt;自分の生活している世界が二次元ではないから、空間の中で関わる作品が好きなのかもしれない。より身近で、馴染みある形式だからだろうか。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>【Theory】経験と身近な感覚の抽象</title>
+      <link>http://localhost:1313/notes/abstraction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/abstraction/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/clay.png&#34; style=&#34;width: 60%; height: auto;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;五感の抽象化&#34;&gt;五感の抽象化&lt;/h3&gt;
+&lt;p&gt;夕焼けを眺める。視覚から受け取る光の強さ、形、色以外に、温度や湿度、風やにおい、質感、それに付随するさまざまな要素を一緒に感じる。それは全身で感じる、抽象的に混ざり合った空気の気配だ。&lt;/p&gt;
+&lt;p&gt;抽象的な感覚と抽象化された造形。&lt;/p&gt;
+&lt;p&gt;空間を歩いたりすることで周囲と関係する。日常の感覚と、身近な経験と感覚を抽象化した非日常の造形が関係していく。&lt;/p&gt;
+&lt;p&gt;空間の抽象化。&lt;/p&gt;
+&lt;p&gt;認識は多くの場合、ごちゃごちゃになった情報が、なんとか整理されているように見えるだけに思える。そのごちゃごちゃを捏ねたり、削ったり、わちゃわちゃして、形になったものが私の抽象なのかもしれない。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
