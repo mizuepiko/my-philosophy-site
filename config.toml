@@ -1,6 +1,6 @@
 baseURL = "https://my-philosophy-site-eta.vercel.app/"
 languageCode = "ja-jp"
-title = "my-philosophy-site"
+title = "Mizue Osanai"
 theme = "hermit"
 
 enableRobotsTXT = true
@@ -8,21 +8,25 @@ pygmentsCodefences = true
 pygmentsUseClasses = true
 
 [author]
-  name = "mizue"
+  name = "Mizue Osanai"
 
 [params]
   dateform = "2006-01-02"
   dateformShort = "Jan 2"
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-  homeTitle = "my-philosophy-site"
-  subtitle = "Welcome to my philosophy site."
+  homeTitle = "Mizue Osanai"
+  subtitle = "Welcome to my site."
+  themeColor = "light"
+  defaultTheme = "light"
   socialCircle = true
 
-  [params.author]
-    name = "mizue"
+  # アバター（プロフィール画像）がある場合の指定（static/avatar.png 等があれば適用されます）
+  # avatar = "avatar.png"
 
-# 既存の notes / works フォルダに正確にリンクを設定
+  [params.author]
+    name = "Mizue Osanai"
+
 [[menu.main]]
   name = "Notes"
   url = "notes/"
