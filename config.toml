@@ -2,3 +2,14 @@ baseURL = "https://my-philosophy-site-eta.vercel.app/"
 languageCode = "ja-jp"
 title = "my-philosophy-site"
 theme = "hermit"
+
+[author]
+  name = "mizue"
+
+[params]
+  dateform = "2006-01-02"
+  dateformNum = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  [params.author]
+    name = "mizue"
