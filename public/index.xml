@@ -72,21 +72,6 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>polinitto ポリニット</title>
-      <link>http://localhost:1313/works/polinitto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/polinitto/</guid>
-      <description>&lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; center; gap: 30px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/polinitto2.png&#34; alt=&#34;stitch&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
-&lt;/div&gt;
-&lt;p&gt;素材：毛糸、ポリ袋&lt;/p&gt;
-&lt;p&gt;ポリ袋をニットでつなぐ。『わしゃわしゃ』からの多少の試みであり、布生地のようなものを目指した。透明な部分のわしゃっとした膨らみ、伸縮性のある編み地とのつながり。&lt;/p&gt;
-&lt;p&gt;空気の質感のような、パッチワークのような。&lt;/p&gt;
-&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/polinitto.png&#34; alt=&#34;stitch&#34; style=&#34;width: 50%; height: auto,&#34;&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>わしゃわしゃ</title>
       <link>http://localhost:1313/works/workwasha/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,23 +86,6 @@
 &lt;img src=&#34;http://localhost:1313/images/washa1.png&#34; alt=&#34;Window 3&#34; style=&#34;width: 60%; display: block; margin-bottom: 60px;&#34;&gt;
 &lt;/div&gt;
 &lt;p&gt;CSMのニットウェアのサマーコースではじめて編み機を使った。その出会いは新鮮でとても衝撃的だった。糸から布地を作り服にできることに感激した。Sarah先生も好きだったし、とにかく編み機が大好きになった。Knitwearという選択肢もあったんだなと思った。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>糸の束　もふもふ</title>
-      <link>http://localhost:1313/works/stitch/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/stitch/</guid>
-      <description>&lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; center; gap: 30px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/stitch.png&#34; alt=&#34;stitch&#34; style=&#34;width: 45%; height: auto;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/stitch2.png&#34; alt=&#34;stitch&#34; style=&#34;width: 45%; height: auto,&#34;&gt;
-&lt;/div&gt;
-&lt;p&gt;素材：しつけ糸、チュール&lt;/p&gt;
-&lt;p&gt;モフモフする。言葉が糸の束のように口のなかに違和感として存在する。&lt;/p&gt;
-&lt;p&gt;身にまとうモフモフのテクスチャー、モフモフを着て今日も生きるのだ&lt;/p&gt;
-&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/stitch5.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 55%; height: auto;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/stitch3.png&#34; alt=&#34;stitch&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
-&lt;/div&gt;</description>
     </item>
     <item>
       <title>パリパリと</title>
@@ -135,19 +103,6 @@
 &lt;/div&gt;</description>
     </item>
     <item>
-      <title>にほんが Japanese painting</title>
-      <link>http://localhost:1313/works/nihonga/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/nihonga/</guid>
-      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/images/nihonga.png&#34; style=&#34;width: 70%; height: auto; margin-bottom: 60px;&#34;&gt;
-   &lt;img src=&#34;http://localhost:1313/images/evaporation.png&#34;  style=&#34;width: 400px; height: auto; margin-bottom: 60px;&#34; &gt;
-  &lt;img src=&#34;http://localhost:1313/images/nihonga2.png&#34;  style=&#34;width: 550px; height: auto; margin-bottom: 60px;&#34; &gt;
-  &lt;img src=&#34;http://localhost:1313/images/nihongatubu.png&#34;  style=&#34;width: 400px; height: auto; margin-bottom: 60px;&#34; &gt;
-&lt;/div&gt;
-&lt;p&gt;素材：和紙、顔料、膠など&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>糸、形、存在</title>
       <link>http://localhost:1313/works/thread/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,39 +115,6 @@
 &lt;p&gt;糸により自分の存在を確かめるための実験的な作品&lt;/p&gt;
 &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
   &lt;img src=&#34;http://localhost:1313/images/thread1.png&#34; alt=&#34;In a bag&#34; style=&#34;width: 45%; height: auto;&#34;&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Inner Landscape —  A Psychological Window</title>
-      <link>http://localhost:1313/works/chelsea/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/chelsea/</guid>
-      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 30px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/window1.png&#34; alt=&#34;Window 1&#34; style=&#34;width: 50%;  margin-bottom: 30px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/window2.png&#34; alt=&#34;Window 2&#34; style=&#34;width: 50%; margin-bottom: 30px; &#34;&gt;
-&lt;/div&gt;
-&lt;p&gt;UAL チェルシーのファウンデーション在学時の作品&lt;br&gt;
-素材：絹布、ロウ、テグス&lt;/p&gt;
-&lt;p&gt;身体を家と例えると、窓は他者と関わるときのコミュニケーションの窓口に思えた。そのイメージを形にした作品。箱のような立体はそれぞれ手のひらくらいの大きさ。半透明で柔らかみのあるテクスチャーを想像していたのでロウを使用した。当時はEva Hesseの作品に影響を受けていた。ドローイング、絵画、立体、Eva Hesseの表現の広さと、彫刻というか、彫刻化した素材のような表現が魅力的で、今でも好きな作家だ。&lt;/p&gt;
-&lt;p&gt;小規模なチェルシーはアットホームで好きな学校だった。実験的なアプローチが心地よくて、よくわからないまま手を動かして制作していた。隣のテート美術館では、お散歩がてらたくさんの作品を見た。&lt;/p&gt;
-&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 30px&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/window3.png&#34; alt=&#34;Window 3&#34; style=&#34;width: 35%; display: block;&#34;&gt;
-&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Plastic bags カサカサ</title>
-      <link>http://localhost:1313/works/work-bunsai/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/works/work-bunsai/</guid>
-      <description>&lt;div style=&#34;display: flex; justify-content: center; align-items: flex-start; center; gap: 30px; width: 100%; margin-top: 40px; margin-bottom: 40px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/work1-1.jpg&#34; alt=&#34;Window 1&#34; style=&#34;width: 50%; &#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/work1-2.jpg&#34; alt=&#34;Window 2&#34; style=&#34;width: 35% height:auto; &#34;&gt;
-&lt;/div&gt;
-&lt;p&gt;素材：レジ袋、紐&lt;/p&gt;
-&lt;p&gt;街での生活、カサカサ乾燥した無機質な日々の連続。たまっていくレジ袋は生きている証拠。トニー滝谷という映画にどこか共感する。そんな日々をテクスチャーで表せないかと考え、素材の中に入って体感するようにした作品。目の前が白くてカサカサした素材に包まれると、なぜか気持ちも静かになる。&lt;/p&gt;
-&lt;p&gt;高田馬場での日々、美術を学ぶことに価値があると思えた。&lt;/p&gt;
-&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 30px;&#34;&gt;
-&lt;img src=&#34;http://localhost:1313/images/work1-3.jpg&#34; alt=&#34;Window 1&#34; style=&#34;width: 40%; &#34;&gt;
 &lt;/div&gt;</description>
     </item>
     <item>
@@ -234,34 +156,6 @@
 &lt;p&gt;私とテキスタイルとの出会いは、テキスタイルアートで有名な佐久間先生を通してだった。少しだけ先生に師事し、大好きになったのだ。工業生産の布しか知らなかったので、布を自分で作れるということにワクワクした。そして子供の頃から大の手芸好きだったので、留学した時にイギリスのテキスタイルコースではニットや刺繍の専攻もあると知って、手芸好きでも学位が取れるのがすごいなと嬉しくなった。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【Theory】フランクフルト学派とアートというイリュージョン</title>
-      <link>http://localhost:1313/notes/notetheory1/</link>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/notetheory1/</guid>
-      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/threadwood.png&#34; style=&#34;width: 50%; height: auto;&#34;&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;フランクフルト学派資本主義マルクス主義現代美術&#34;&gt;フランクフルト学派、資本主義、マルクス主義、現代美術&lt;/h3&gt;
-&lt;p&gt;現代社会を動かす根底にある理論と視覚芸術の方法論&lt;/p&gt;
-&lt;p&gt;ヨーゼフ・ボイスを中心に美術が社会活動と結びつき、アーティストと活動家の線引きが曖昧になる過程を俯瞰する。そして、その活動の背後にある主義、思想を追うことで、現代美術の見えない構造をまとめるのが目的だ。我々の行動や思考の背後にある現代の思想はどのように構築されていったのか。&lt;/p&gt;
-&lt;p&gt;参考文献　（予定）
-「ザ・ロスチャイルド」大英帝国を乗っ取り世界を支配した一族の物語
-フランクフルト学派 -ホルクハイマー、アドルノから21世紀の「批判理論」へ
-人工地獄 現代アートと観客の政治学&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>【Practice &amp; Experiments】3-D、抽象、もの</title>
-      <link>http://localhost:1313/notes/note-sculpture/</link>
-      <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/note-sculpture/</guid>
-      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/experiment.png&#34; style=&#34;width: 40%; height: auto;&#34;&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;彫刻に惹かれる&#34;&gt;彫刻に惹かれる&lt;/h3&gt;
-&lt;p&gt;平面より、立体の作品に惹かれる。目で見るだけではなく、量感や質感、空間との関係など体感しながら作品と関係できるのが好きなのだろう。あと、在る、という感じが日常に近い感覚で、それでいて日常にはないオブジェを感じられることがいいのだろう。彫刻は絵画よりも寡黙な気がする。絵画でもミニマルで抽象的な作品は彫刻的だと思う。要素が単純化されることに秘密があるのか。素材や質感、抽象的な形は、感度を必要とする静かな造形言語だからだろか。&lt;/p&gt;
-&lt;p&gt;最近は美術館に行くこと、美術作品を見ることに興味がほとんどなくなってしまった。郷土館はなぜか好きなのだが。それは、親しみなのかもしれない。郷土館のものたちは私たちの生活ともつながっているように思える、心理的な近さがあるところに惹かれるのかもしれない。ここには、彫刻ではなく、ものたちが収められている。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>【Practice &amp; Experiments】窓とカーテン</title>
       <link>http://localhost:1313/notes/note-window/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -288,27 +182,16 @@
 &lt;p&gt;自分の生活している世界が二次元ではないから、空間の中で関わる作品が好きなのかもしれない。より身近で、馴染みある形式だからだろうか。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【Theory】経験と身近な感覚の抽象</title>
-      <link>http://localhost:1313/notes/abstraction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/abstraction/</guid>
-      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 50px; margin-bottom: 50px;&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/clay.png&#34; style=&#34;width: 60%; height: auto;&#34;&gt;
-&lt;/div&gt;
-&lt;h3 id=&#34;五感の抽象化&#34;&gt;五感の抽象化&lt;/h3&gt;
-&lt;p&gt;夕焼けを眺める。視覚から受け取る光の強さ、形、色以外に、温度や湿度、風やにおい、質感、それに付随するさまざまな要素を一緒に感じる。それは全身で感じる、抽象的に混ざり合った空気の気配だ。&lt;/p&gt;
-&lt;p&gt;抽象的な感覚と抽象化された造形。&lt;/p&gt;
-&lt;p&gt;空間を歩いたりすることで周囲と関係する。日常の感覚と、身近な経験と感覚を抽象化した非日常の造形が関係していく。&lt;/p&gt;
-&lt;p&gt;空間の抽象化。&lt;/p&gt;
-&lt;p&gt;認識は多くの場合、ごちゃごちゃになった情報が、なんとか整理されているように見えるだけに思える。そのごちゃごちゃを捏ねたり、削ったり、わちゃわちゃして、形になったものが私の抽象なのかもしれない。&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;&lt;img alt=&#34;プロフィール写真&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/about1.png&#34;&gt;&lt;/p&gt;
-&lt;p&gt;ここに自己紹介文を入力します。&lt;/p&gt;</description>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%; margin-bottom: 30px;&#34;&gt;
+&lt;img src=&#34;http://localhost:1313/about1.png&#34; alt=&#34;Window 1&#34; style=&#34;width: 40%; &#34;&gt;
+&lt;/div&gt;
+&lt;h2 style=&#34;font-size: 24px;&#34;&gt;Mizue Osanai&lt;/h2&gt;
+&lt;p&gt;Art &amp;amp; Research&lt;/p&gt;
+&lt;p&gt;My practice explores the boundaries of structural abstraction through an engagement with material possibilities. Moving beyond traditional frameworks, I work with soft and pliable media—such as thread and variable surfaces—not merely as tools of representation, but through their own structural logic. By examining the tactile realities of material, my practice seeks to reframe our perception of space, structure, and physical presence.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

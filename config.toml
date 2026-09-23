@@ -1,7 +1,7 @@
 baseURL = "https://my-philosophy-site-eta.vercel.app/"
 languageCode = "ja-jp"
 title = "Mizue Osanai"
-theme = "hermit"
+theme = "PaperMod"
 
 enableRobotsTXT = true
 pygmentsCodefences = true

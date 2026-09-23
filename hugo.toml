@@ -1,7 +1,7 @@
 baseURL = 'https://mizueosanai.com/'
 languageCode = 'ja'
 title = 'Mizue Osanai'
-theme = 'hermit'
+theme = "PaperMod"
 
 [params]
     title = "Mizue Osanai"
