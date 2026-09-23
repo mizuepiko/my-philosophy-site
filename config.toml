@@ -3,6 +3,10 @@ languageCode = "ja-jp"
 title = "my-philosophy-site"
 theme = "hermit"
 
+enableRobotsTXT = true
+pygmentsCodefences = true
+pygmentsUseClasses = true
+
 [author]
   name = "mizue"
 
@@ -11,6 +15,18 @@ theme = "hermit"
   dateformShort = "Jan 2"
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  homeTitle = "my-philosophy-site"
+  bgImg = ""
 
   [params.author]
     name = "mizue"
+
+[[menu.main]]
+  name = "Posts"
+  url = "posts/"
+  weight = 10
+
+[[menu.main]]
+  name = "About"
+  url = "about/"
+  weight = 20
