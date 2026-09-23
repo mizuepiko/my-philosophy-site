@@ -16,7 +16,10 @@ pygmentsUseClasses = true
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
   homeTitle = "my-philosophy-site"
-  bgImg = ""
+  
+  # ライトモード（白背景）に固定する設定
+  themeColor = "light"
+  defaultTheme = "light"
 
   [params.author]
     name = "mizue"
