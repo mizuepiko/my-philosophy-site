@@ -262,16 +262,6 @@
 &lt;p&gt;最近は美術館に行くこと、美術作品を見ることに興味がほとんどなくなってしまった。郷土館はなぜか好きなのだが。それは、親しみなのかもしれない。郷土館のものたちは私たちの生活ともつながっているように思える、心理的な近さがあるところに惹かれるのかもしれない。ここには、彫刻ではなく、ものたちが収められている。&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 20 May 2026 14:42:28 +0900</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;img src=&#34;http://localhost:1313/about1.png&#34; alt=&#34;mizue&#34; style=&#34;width: 30%; max-width: 400px; display: block; margin: 0 0 20px 0; border-radius: 4px;&#34;&gt;
-&lt;p&gt;Mizue Osanai&lt;/p&gt;
-&lt;p&gt;Visual Art &amp;amp; Research&lt;/p&gt;
-&lt;p&gt;My practice explores the boundaries of structural abstraction through an engagement with material possibilities. Moving beyond traditional frameworks, I work with soft and pliable media—such as thread and variable surfaces—not merely as tools of representation, but through their own structural logic. By examining the tactile realities of material, my practice seeks to reframe our perception of space, structure, and physical presence.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>【Practice &amp; Experiments】窓とカーテン</title>
       <link>http://localhost:1313/notes/note-window/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -311,6 +301,14 @@
 &lt;p&gt;空間を歩いたりすることで周囲と関係する。日常の感覚と、身近な経験と感覚を抽象化した非日常の造形が関係していく。&lt;/p&gt;
 &lt;p&gt;空間の抽象化。&lt;/p&gt;
 &lt;p&gt;認識は多くの場合、ごちゃごちゃになった情報が、なんとか整理されているように見えるだけに思える。そのごちゃごちゃを捏ねたり、削ったり、わちゃわちゃして、形になったものが私の抽象なのかもしれない。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;プロフィール写真&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/about1.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;ここに自己紹介文を入力します。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

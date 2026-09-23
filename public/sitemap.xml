@@ -56,14 +56,13 @@
     <loc>http://localhost:1313/notes/note-sculpture/</loc>
     <lastmod>2026-05-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2026-05-20T14:42:28+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/notes/note-window/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/note-sculpture2/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/abstraction/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/introduction/</loc>
   </url><url>
