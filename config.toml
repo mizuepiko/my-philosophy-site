@@ -16,17 +16,16 @@ pygmentsUseClasses = true
   dateformNum = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
   homeTitle = "Mizue Osanai"
-  subtitle = "Welcome to my site."
+  subtitle = "Welcome to my philosophy site."
   themeColor = "light"
   defaultTheme = "light"
+  readMore = true
   socialCircle = true
-
-  # アバター（プロフィール画像）がある場合の指定（static/avatar.png 等があれば適用されます）
-  # avatar = "avatar.png"
 
   [params.author]
     name = "Mizue Osanai"
 
+# メニューの順番を固定 (weight の小さい順に左から並びます)
 [[menu.main]]
   name = "Notes"
   url = "notes/"
