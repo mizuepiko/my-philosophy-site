@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Introduction on Mizue Osanai</title>
+    <link>https://mizueosanai.com/categories/introduction/</link>
+    <description>Recent content in Introduction on Mizue Osanai</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="https://mizueosanai.com/categories/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>はじめに</title>
+      <link>https://mizueosanai.com/notes/first-note/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mizueosanai.com/notes/first-note/</guid>
+      <description>&lt;div style=&#34;display: flex; flex-direction: column; align-items: center; width: 100%;&#34;&gt;
+&lt;img src=&#34;https://mizueosanai.com/threadwood.png&#34; alt=&#34;作品の写真&#34; style=&#34;width: 50%; max-width: 500px; display: block; margin-bottom: 60px;&#34;&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;fragments-of-thought--テキスタイルをめぐる哲学&#34;&gt;　Fragments of Thought  　　テキスタイルをめぐる哲学&lt;/h3&gt;
+&lt;p&gt;日々考えているテキスタイルをめぐる考えや、制作プロセスなどを書き留めていきます。３つのカテゴリー、 Theory and Critique (理論・批評)
+、 Material and Texture （物質と質感）、 Process &amp;amp; Experiments （プロセスと実験）にわけて、布や糸の素材が持つユーモアや人間のような不完全さ、機能や構造、歴史など幅広く派生的に思考を巡らせます。思考を重ね合わせ、美学を造形作品につなげることを目指しています。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

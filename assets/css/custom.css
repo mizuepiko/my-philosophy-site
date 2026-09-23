@@ -1,0 +1,14 @@
+/* 作品一覧ページ（Works）のカバー画像のサイズ調整 */
+.post-entry .entry-cover img {
+    max-width: 100px; /* 画像の横幅を最大150pxに制限 */
+    height: auto;     /* 高さは自動調整（比率を保つ） */
+    margin: 0 auto 10px auto; /* 中央寄せにして、下に少し余白 */
+    display: block;   /* ブロック要素にする */
+}
+
+/* スマホ表示での調整（必要に応じて） */
+@media screen and (max-width: 768px) {
+    .post-entry .entry-cover img {
+        max-width: 100px; /* スマホではさらに小さく */
+    }
+}

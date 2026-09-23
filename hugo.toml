@@ -1,0 +1,39 @@
+baseURL = 'https://mizueosanai.com/'
+languageCode = 'ja'
+title = 'Mizue Osanai'
+theme = 'PaperMod'
+
+[params]
+    title = "Mizue Osanai"
+
+    [params.profileMode]
+        enabled = true
+        title = "Mizue Osanai"
+        # 👇 ここに写真の設定を2行追加しました！
+        imageUrl = "/avatar.png"
+        imageWidth = 150
+
+[markup.goldmark.renderer]
+    unsafe = true
+
+[assets]
+customCSS = ["custom.css"]
+    minify = true
+    fingerprint = true
+    disableHLJS = true
+    inlineCSS = true
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[[menu.main]]
+    name = "Works"
+    url = "/works/"
+    weight = 20
+
+[[menu.main]]
+    name = "Notes"
+    url = "/notes/"
+    weight = 30
