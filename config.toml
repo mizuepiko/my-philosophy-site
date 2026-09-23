@@ -1,0 +1,4 @@
+baseURL = "https://my-philosophy-site-eta.vercel.app/"
+languageCode = "ja-jp"
+title = "my-philosophy-site"
+theme = "hermit"
