@@ -1,5 +1,5 @@
 +++
-title = 'In a bag　持ち運ぶもの'
+title = 'In a bag　カバンの中に'
 # date = 2026-05-28T14:50:00Z
 weight = 2
 hidemeta = true
