@@ -11,7 +11,7 @@ draft = false
 <img src="/images/thread2.png" alt="In a bag 3" style="width: 55%; height: 55%;">
 </div>
  
-素材：ミシン糸
+素材：ミシン糸、PVA
 
 糸で身体をトレースするように、自分の存在を確かめるための実験的な作品
 
