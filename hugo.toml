@@ -9,10 +9,14 @@ theme = "PaperMod"
     [params.profileMode]
         enabled = true
         title = "Mizue Osanai"
-        # 👇 ここに写真の設定を2行追加しました！
         imageUrl = "/avatar.png"
         imageWidth = 150
 
+ 
+    [[params.socialIcons]]
+        name = "instagram"
+        url = "https://instagram.com/mizue_osanai"
+        
 [markup.goldmark.renderer]
     unsafe = true
 
