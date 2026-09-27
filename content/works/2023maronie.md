@@ -11,7 +11,7 @@ draft = false
  
 </div>
 
-京都のギャラリーマロニエと青森市内　２０２３・１２
+京都のギャラリーマロニエと青森市内　2023-2024
 
 素材：綿糸、反応染料、アルミパイプ、アルミ板、その他
 
@@ -25,6 +25,9 @@ draft = false
 
  <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 70px;">
  <img src="/images/2023composition.png"  style="width: 550px; height: auto; margin-bottom: 60px;" >
-  <img src="/images/2023composition2.png"  style="width: 400px; height: auto;" >
+ <img src="/images/2023composition2.png"  style="width: 400px; height: auto; margin-bottom: 60px;" >
 </div>
-
+下は青森市の浅虫、海の家が並ぶ
+ <div style="display: flex; flex-direction: column; align-items: center; width: 100%; margin-top: 60px;">
+  <img src="/images/2024.png"  style="width: 400px; height: auto; margin-bottom: 60px;" >
+</div>
